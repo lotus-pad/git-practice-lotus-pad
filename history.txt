@@ -1,0 +1,230 @@
+  261  git add.
+  262  git add .
+  263  git commit -m "12 hours omg"
+  264  git commit
+  265  git push
+  266  git commit
+  267  git status
+  268  git add all
+  269  git add
+  270  git add .
+  271  git add .
+  272  git commit
+  273  git add .
+  274  git commit
+  275  git push
+  276  git add .
+  277  git push
+  278  git commit
+  280  git add .
+  281  git commit
+  282  git add .
+  283  git commit -m "please"
+  299  git add .
+  300  git commit -m "test commit"
+  301  git add .
+  302  git commit -m "test commit"
+  303  git add .
+  304  git commit -m "test commit"
+  305  git add .
+  306  git commit -m "test commit"
+  307  git add .
+  308  git commit -m "final try"
+  309  git add .
+  310  git commit -m "final try"
+  311  git push
+  320  git add .
+  321  git commit -m "please please please"
+  390  mkdir gitPractive
+  391  rm gitPractive/
+  392  delete gitPractive/
+  393  rmdir gitPractive/
+  394  mkdir gitPractice
+  395  cd gitPractice/
+  397  git innit
+  399  git innit
+  400  git init
+  401  cd gitPractice/
+  404  git status
+  412  cd gitPractice/
+  414  git status
+  415  git ls -la
+  418  cd gitPractice/
+  420  git status
+  424  git status
+  427  git add new_file.txt 
+  428  git status
+  429  git commit -m "first commit"
+  430  git status
+  431  git status
+  432  git add .
+  433  git status
+  434  git commit -m "updated to check what happens if we edit the file after comitting it"
+  435  git log
+  436  git checkout 72c645661
+  437  git switch
+  438  git switch -
+  445  git --version
+  446  git config --global user.name "Lotus Khoteja"
+  447  git config --global user.email "ektakhoteja60@gmail.com"
+  448  git config --global core.editor "code --wait"
+  449  git config --global init.defaultBranch main
+  451  git --version
+  457  mkdir git-practice-Mikasa60
+  458  cd git-practice-Mikasa60/
+  459  git init
+  461  git status
+  470  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  472  git --version
+  531  cd git-practice-lotus-pad/
+  532  gitinnit
+  533  gitinit
+  534  git status
+  536  git status
+  540  git status
+  541  git commit -m "create new files"
+  542  git add .
+  543  git commit -m "create new files"
+  544  git status
+  545  git log
+  546  git status
+  547  git add .
+  548  git reset
+  549  git add file_1.txt 
+  550  git commit -m "just first edit on file_1.txt"
+  551  git status
+  552  git add file_2.txt 
+  553  git commit -m "just first edit on file_2.txt"
+  554  git status
+  555  git log
+  557  git status
+  558  git add .
+  559  git commit -m "readme file"
+  561  git status
+  562  touch .gitignore
+  563  git status
+  565  git add .
+  566  git commit -m "adding .gitignore"
+  567  git status
+  569  git status
+  570  git status
+  571  git branch
+  572  git branch features
+  573  git switch features
+  574  git branch
+  575  git log --oneline
+  576  git log
+  578  git add .
+  579  git commit -m "one line update"
+  580  git switch -c
+  581  git switch main
+  583  git add .
+  584  git commit -m "adding another line"
+  585  git merge features
+  586  git commit -m "first merge"
+  587  git branch
+  588  git log
+  589  git log --oneline
+  591  git add .
+  592  git commit -m "replacing in new_features.txt"
+  593  git switch features
+  595  git branch
+  597  git add .
+  598  git commit -m "changing new_features.txt from features branch"
+  599  git switch main
+  600  git merge features
+  601  git status
+  602  git add .
+  603  git commit -m "fixing the merge error"
+  604  git branch -d features
+  605  git status
+  606  git branch
+  607  git remote add origin git@github.com:lotus-pad/git-practice-lotus-pad.git
+  608  git push -u origin main
+  609  git remote add origin git@github.com:lotus-pad/git-practice-lotus-pad.git
+  610  git push -u origin main
+  613  mkdir git-practice-LiztheWz
+  614  cd git-practice-LiztheWz/
+  615  git clone https://github.com/lotus-pad/git-practice-LiztheWz.git
+  616  git checkout -b feature-lotus-pad
+  617  git branch
+  619  git status
+  620  git add new-file-from-lotus.txt
+  621  git commit
+  622  git commit -m "adding new file in Liz's repo"
+  623  git status
+  624  git push origin feature-lotus-pad
+  625  git add .
+  628  cd git-practice-LiztheWz/
+  637  cd Desktop/winter\ 2025/stat386/Labs/Lab2/git-practice-LiztheWz/
+  638  git status
+  639  git add .
+  640  git commit -m "new file to Liz's repo"
+  641  git push
+  642  git status
+  643  git push origin feature-lotus-pad
+  644  git branch
+  645  git branch feature-lotus-pad
+  646  git branch
+  647  git switch feature-lotus-pad
+  648  git branch
+  650  git branch
+  653  git status
+  654  git add .
+  655  git commit -m "new file on Liz's repo"
+  656  git status
+  657  git push origin feature-lotus-pad
+  658  git remote -v
+  659  git remote set-url origin https://github.com/lotus-pad/git-practice-LiztheWz.git
+  660  git remote -v
+  661  git push origin feature-lotus-pad
+  662  git push -u origin feature-lotus-pad
+  663  git remote -v
+  664  git branch
+  665  git status
+  666  git push origin feature-lotus-pad
+  667  git push origin feature-lotus-pad
+  668  git push origin feature-lotus-pad
+  669  git push origin feature-lotus-pad
+  671  cd git-practice-lotus-pad/
+  674  cd git-practice-LiztheWz/
+  675  git status
+  676  git branch
+  677  git push origin feature-lotus-pad
+  678  git push -u origin feature-lotus-pad
+  680  git clone https://github.com/lotus-pad/git-practice-LiztheWz.git
+  682  cd git-practice-LiztheWz/
+  683  git branch feature-lotus-pad
+  684  git branch
+  685  git switch feature-lotus-pad
+  686  git branch
+  688  git status
+  689  git add .
+  690  git commit -m "new file from lotus-pad"
+  691  git push origin feature-lotus-pad
+  692  git push origin feature-lotus-pad
+  696  git clone git@github.com:lotus-pad/git-practice-LiztheWz.git
+  697  git branch
+  699  cd git-practice-LiztheWz/
+  700  git branch
+  701  git branch feature-lotus-pad
+  702  git branch
+  703  git switch feature-lotus-pad
+  704  git branch
+  706  git status
+  707  git add .
+  708  git commit -m "new file from lotus-pad"
+  709  git push origin feature-lootus-pad
+  710  git push origin feature-lotus-pad
+  711  git pull
+  713  cd git-practice-lotus-pad/
+  714  git pull
+  715  git log --oneline . gitlog.txt
+  716  git log --oneline > gitlog.txt
+  717  history 0 | grep git > history.txt
+  718  git status
+  719  git add .
+  720  git commit -m "final commit hopefully"
+  721  git push
+  722  history | grep git > history/txt
+  723  history | grep git > history.txt
