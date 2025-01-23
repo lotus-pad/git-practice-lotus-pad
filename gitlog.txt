@@ -1,0 +1,13 @@
+f1ea6e8 Merge pull request #1 from LiztheWz/feature-LiztheWz
+7d085c0 new file from Liz
+5573f7c fixing the merge error
+6929dae changing new_features.txt from features branch
+f709d50 replacing in new_features.txt
+ecddc11 first merge
+44fe139 adding another line
+4923785 one line update
+d22082d adding .gitignore
+b57f0ef readme file
+b899883 just first edit on file_2.txt
+16da40b just first edit on file_1.txt
+9a4071b create new files
